@@ -8,8 +8,8 @@
 // Configuração Wi-Fi e Firebase
 #define FIREBASE_HOST "https://controle-fermentacao-default-rtdb.firebaseio.com"
 #define FIREBASE_AUTH ""
-const char *ssid = "free";
-const char *password = "Beer@2019";
+const char *ssid = "";
+const char *password = "";
 
 // Pinos e instâncias
 #define ONE_WIRE_BUS D4 // Pino do sensor DS18B20
